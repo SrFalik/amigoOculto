@@ -1,10 +1,5 @@
 def criarLista():
-    while True:
-        qtd = int(input("Digite a quantidade de jogadores: "))
-        if qtd % 2 != 0:
-            print("Numero precisa ser par, tente novamente")
-        else:
-            break
+    qtd = int(input("Digite a quantidade de jogadores: "))
     listaJogadores = []
     for i in range(qtd):
         nome = str(input("Digite o nome do jogador #" + str(i + 1) + ": "))

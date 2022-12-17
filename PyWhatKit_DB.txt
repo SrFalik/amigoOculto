@@ -13,3 +13,53 @@ Time: 2:16
 Phone Number: +5521983326343
 Message: Teste
 --------------------
+Date: 17/12/2022
+Time: 14:40
+Phone Number: +5521983326343
+Message: Você tirou: Almondega
+--------------------
+Date: 17/12/2022
+Time: 14:41
+Phone Number: +5521983326343
+Message: Você tirou: Batata
+--------------------
+Date: 17/12/2022
+Time: 14:42
+Phone Number: +5521983326343
+Message: Você tirou: Cebola
+--------------------
+Date: 17/12/2022
+Time: 14:43
+Phone Number: +5521983326343
+Message: Você tirou: Picles
+--------------------
+Date: 17/12/2022
+Time: 14:55
+Phone Number: +5521967484695
+Message: Você tirou: Luan
+--------------------
+Date: 17/12/2022
+Time: 14:56
+Phone Number: +5521989444079
+Message: Você tirou: Witor
+--------------------
+Date: 17/12/2022
+Time: 14:56
+Phone Number: +5521995365772
+Message: Você tirou: Laraq
+--------------------
+Date: 17/12/2022
+Time: 14:56
+Phone Number: +5521983326343
+Message: Você tirou: Cauan
+--------------------
+Date: 17/12/2022
+Time: 14:57
+Phone Number: +5521972647561
+Message: Você tirou: Cardoso
+--------------------
+Date: 17/12/2022
+Time: 15:7
+Phone Number: +5521983326343
+Message: Você tirou: Cardoso
+--------------------

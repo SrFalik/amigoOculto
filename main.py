@@ -1,5 +1,5 @@
-from Sortear import sortear
+from MandarMsg import mandarMsg
 
 if __name__ == '__main__':
-    sortear()
+    mandarMsg()
 
