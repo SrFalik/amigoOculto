@@ -13,5 +13,6 @@ def mandarMsg():
         click(2944, 983)
         sleep(2)
         press('enter')
+        sleep(2)
         hotkey('ctrl', 'w')
 
