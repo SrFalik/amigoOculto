@@ -11,6 +11,11 @@ def criarLista():
                     break
             jogador = {
                 "nome": nome,
+
+
+
+
+
                 "numero": numero
             }
             listaJogadores.append(jogador)

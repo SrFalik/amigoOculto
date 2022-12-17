@@ -88,3 +88,88 @@ Time: 15:35
 Phone Number: +5521989444079
 Message: Você tirou: Cauan
 --------------------
+Date: 17/12/2022
+Time: 17:53
+Phone Number: +5521972647561
+Message: Você tirou: Cauan
+--------------------
+Date: 17/12/2022
+Time: 17:53
+Phone Number: +5521983326343
+Message: Você tirou: Witor
+--------------------
+Date: 17/12/2022
+Time: 17:54
+Phone Number: +5521995365772
+Message: Você tirou: Cardoso
+--------------------
+Date: 17/12/2022
+Time: 17:54
+Phone Number: +5521989444079
+Message: Você tirou: Lara
+--------------------
+Date: 17/12/2022
+Time: 17:54
+Phone Number: +5521967484695
+Message: Você tirou: Luan
+--------------------
+Date: 17/12/2022
+Time: 18:2
+Phone Number: +5521983326343
+Message: Você tirou: Rodrigo
+--------------------
+Date: 17/12/2022
+Time: 18:3
+Phone Number: +5521979550542
+Message: Você tirou: Sandra
+--------------------
+Date: 17/12/2022
+Time: 18:3
+Phone Number: +5521993033255
+Message: Você tirou: Alessandra
+--------------------
+Date: 17/12/2022
+Time: 18:3
+Phone Number: +5521985019190
+Message: Você tirou: Denize
+--------------------
+Date: 17/12/2022
+Time: 18:4
+Phone Number: +5521987640789
+Message: Você tirou: Lara
+--------------------
+Date: 17/12/2022
+Time: 18:4
+Phone Number: +5521979127899
+Message: Você tirou: Marcio
+--------------------
+Date: 17/12/2022
+Time: 18:4
+Phone Number: +5521987087504
+Message: Você tirou: Ricardo
+--------------------
+Date: 17/12/2022
+Time: 18:5
+Phone Number: +5521981326342
+Message: Você tirou: Babi
+--------------------
+Date: 17/12/2022
+Time: 18:5
+Phone Number: +5521964559618
+Message: Você tirou: Diogo
+--------------------
+Date: 17/12/2022
+Time: 18:5
+Phone Number: +5521970927960
+Message: Você tirou: Renan
+--------------------
+Date: 17/12/2022
+Time: 18:6
+Phone Number: +5521993575726
+Message: Você tirou: Yan
+--------------------
+Date: 17/12/2022
+Time: 18:6
+Phone Number: +5521994486340
+Message: Você tirou: Deborah
+--------------------

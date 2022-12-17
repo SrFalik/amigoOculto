@@ -11,6 +11,7 @@ def mandarMsg():
     for i in range(len(listaResultado)):
         sendwhatmsg_instantly(listaResultado[i]["r"]["numero"], 'Você tirou: ' + listaResultado[i]["r2"]["nome"])
         click(2944, 983)
+        #trocar as coordenadas com o position do pyautogui
         sleep(2)
         press('enter')
         sleep(2)
